@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CLASSIC RECIPES</title>
+    <style>
+      div{max-width: 550px; margin:20px auto}
+      h1{text-align: center;}
+      h2{color: Red; border-bottom: 2px solid gray;}
+      ul{list-style-type: none;}
+      li{padding: 5px 0;}
+      .rate{float: right;}
+    </style>
+  </head>
+  <body style="background-color:bisque;">
+  <image src=Internal storage/Pictures/logo.jpg></image>
+    <div>
+      <h1> WELCOME </h1>
+      <h2>STARTERS</h2>
+      <ul>
+        <li>Chilli Chicken<span class="rate">Rs 149</span></li>
+        <li>Chicken 65 <span class="rate">Rs 149</span></li>
+        <li>Pepper Chicken <span class="rate">Rs 149</span></li>
+        <li>Veg Manchurian <span class="rate">Rs 119</span></li>
+      </ul>
+      <h2>BIRYANIS</h2>
+       <ul>
+        <li>Chicken Biryani <span class="rate">Rs 219</span></li>
+        <img src=Internal storage/Pictures/logo.jpg></image>
+        <li>Mutton Biryani <span class="rate">Rs 279</span></li>
+        <li>Veg Biryani <span class="rate">Rs 199</span></li>
+        <li>Special Chicken Biryani <span class="rate">Rs 299</span></li>
+        <li>Prawns Biryani <span class="rate">Rs 219</span></li>
+        <li>Egg Biryani <span class="rate">Rs 219</span></li>
+        <li>Chicken Family Pack Biryani <span class="rate">Rs 619</span></li>
+      </ul>
+      <h2>KEBABS</h2> 
+      <ul>
+        <li>Chicken Tikka Kebab <span class="rate">Rs 199</span></li>
+        <li>Tandoori Kebab (Hal) <span class="rate">Rs 149</span></li>
+        <li>Tandoori Kebab (Full) <span class="rate">Rs 199</span></li>
+        <li>Chicken garlic Kebab <span class="rate">Rs 149</span></li>
+      </ul>
+      <h2>DESERTS</h2> 
+      <ul>
+        <li>Strawberry Cake <span class="rate">Rs 49</span></li>
+        <li>Korean Pancake <span class="rate">Rs 79</span></li>
+        <li>Red velvet cake <span class="rate">Rs 99</span></li>
+        <li>Cheese cake<span class="rate">Rs 49</span></li>
+      </ul>  
+        <h2>JUICES</h2>
+      <ul>
+        <li>Fresh Fruit Juice ( Seasonal )<span class="rate">Rs 119</span></li>
+        <li>Lemonade <span class="rate">Rs 129</span></li>
+        <li>Mojito <span class="rate">Rs 119</span></li>
+        <li>Tamarind <span class="rate">Rs 109</span></li>
+      </ul>
+      <h2>MOCKTAILS</h2> 
+      <ul>
+        <li>Mocktail <span class="rate">Rs 149</span></li>
+        <li>Shirley Temple <span class="rate">Rs 179</span></li>
+        <li>Mid Summer Punch <span class="rate">Rs 199</span></li>
+        <li>Treat Mocktail <span class="rate">Rs 149</span></li>
+    </div>
+  </body>
+</html>
